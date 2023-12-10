@@ -1,0 +1,28 @@
+{
+  "name": "xinxonglang",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A toy programming language using javascript for javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "xing test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grenish/xinxongLang.git"
+  },
+  "keywords": [
+    "programming",
+    "language",
+    "language",
+    "javascript",
+    "lang",
+    "programming"
+  ],
+  "author": "Grenish Rai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Grenish/xinxongLang/issues"
+  },
+  "homepage": "https://github.com/Grenish/xinxongLang#readme"
+}
