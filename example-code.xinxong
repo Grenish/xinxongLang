@@ -1,11 +1,5 @@
 xing.start
-  this a = 10;
-  say "The value of a is:", a;
-  try xing (in a lessxang 20){
-    say "a is less than 20";
-  } tryagain xing (in a morexang 25){
-    say "a is more than 20";
-  } nvm {
-    say "a is greater than or equal to 25";
-  }
+
+say "Hello, Xing Xong!"
+
 xong.stop
